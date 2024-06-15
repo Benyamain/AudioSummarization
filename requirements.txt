@@ -1,0 +1,10 @@
+vosk
+pydub
+ffmpeg
+sacremoses
+transformers==4.16.2
+tqdm
+regex
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+torchaudio --index-url https://download.pytorch.org/whl/cpu
