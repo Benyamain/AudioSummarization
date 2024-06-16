@@ -1,10 +1,10 @@
-vosk
-pydub
+vosk==0.3.45
+pydub==0.25.1
 ffmpeg
-sacremoses
 transformers==4.16.2
-tqdm
-regex
+transformers==4.10.0
+regex==2022.7.9
+sacremoses==0.1.1
 torch --index-url https://download.pytorch.org/whl/cpu
 torchvision --index-url https://download.pytorch.org/whl/cpu
 torchaudio --index-url https://download.pytorch.org/whl/cpu
